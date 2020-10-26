@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Search/BinarySearch/Left_Bound.java" line="10" />
+    <bookmark url="file://$PROJECT_DIR$/src/leetcode/LeetCode227.java" line="55" />
+    <bookmark url="file://$PROJECT_DIR$/src/Test.java" line="27" />
+    <bookmark url="file://$PROJECT_DIR$/src/DataStructure/Sort/InsertSort.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c6f897d-22ca-45ce-b14e-63596758b1c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/57c2a180-aaa3-47b7-8586-c78f06d11d87.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ByteDance/T20201011/Code1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ByteDance/T20201011/Code2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ByteDance/T20201011/Code3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ByteDance/T20201011/Code4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ByteDance/手撕代码题集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ByteDance/文档题目.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DP/LeetCode91$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DP/LeetCode91.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DP/LeetCodeLcp19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DP/NP/LeetCode416.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Dijsktra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/HSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/BuildMaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/LeetCode347$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/LeetCode347.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/PriorityQueueE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/TopK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Heap/试题集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/FindK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/Finder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/LeetCode75.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Tree/BiTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Tree/LevelOrde.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/FrameByHand/BasicDataStructrue/LRUCache$DLinkNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/FrameByHand/BasicDataStructrue/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Annotation/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Annotation/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Annotation/Pro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Annotation/Reflect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/BloomFilter$SimpleHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/BloomFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Proxy/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Reflect/Annotion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Reflect/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Reflect/Pro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Reflect/ReflectDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/TestAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/TestInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/JavaBasic/TryCathch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/CreateLink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode142.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode234.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode328.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode61.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode83.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode86.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode876.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/LeetCode92.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/Stack/LeetCode42.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/Stack/LeetCode456.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/Stack/Leetcode84$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/Stack/Leetcode84.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Link/Stack/题目集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/BQ$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/BQ$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/BQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/RTL$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/RTL$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/RTL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/SemaphoreImpliment$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/SemaphoreImpliment$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/SemaphoreImpliment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/WaitNotify$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/WaitNotify$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/WaitNotify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MultiProcess/ProducerAndConsumer/synchronized详解" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BFS/BFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BFS/CreateTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BFS/LeetCode542.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/InitialSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/LeetCode74.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/LeetCode集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/Left_Bound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/Right_Bound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/BinarySearch/链接" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/DFS/PaiLie/LeetCode38.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/DFS/UglyNumber/LeetCode263.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Search/DFS/UglyNumber/LeetCode264.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/String/LeetCode438.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SwordFingerOffer/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SwordFingerOffer/Offer12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SwordFingerOffer/Offer13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SwordFingerOffer/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SwordFingerOffer/offer37.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/TestArraysCopyOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/TestBuildNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/TestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/CreateTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/InOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode1026$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode1026.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode117.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode124$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode124.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode513.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode687.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/LeetCode839.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/PostOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/PreOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/Tempalte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/链接" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/题解124" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LIS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode134.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode1708.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode189$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode189.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode200.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode224.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode227.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode322.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode4$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode542.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/LeetCode9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/SevenNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TelNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/Baidu1012_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/CheckConclusion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/FindRepeatNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/LeastBoats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/ReverseWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/TryCatchFinnaly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/findDiffrence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/real/findRepeatString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/高手题目题解" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/T20201011/Code1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/T20201011/Code2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/T20201011/Code3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/T20201011/Code4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/手撕代码题集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/文档题目.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LeetCode91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LeetCodeLcp19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/NP/LeetCode416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Dijsktra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/HSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap/BuildMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap/LeetCode347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap/PriorityQueueE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap/TopK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Heap/试题集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/FindK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/Finder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/LeetCode75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Tree/LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameByHand/BasicDataStructrue/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Annotation/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Annotation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Annotation/Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Annotation/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/BloomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Proxy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Proxy/TonyCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Reflect/Annotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Reflect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Reflect/Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Reflect/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TestAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TryCathch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/CreateLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode328.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/LeetCode92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/Stack/LeetCode42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/Stack/LeetCode456.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/Stack/Leetcode84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link/Stack/题目集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/BQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/RTL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/SemaphoreImpliment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/synchronized详解" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BFS/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BFS/CreateTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BFS/LeetCode542.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/InitialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/LeetCode33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/LeetCode74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/LeetCode集合" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/Left_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/Right_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/BinarySearch/链接" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/DFS/PaiLie/LeetCode38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/DFS/UglyNumber/LeetCode263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/DFS/UglyNumber/LeetCode264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LeetCode438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordFingerOffer/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordFingerOffer/Offer12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordFingerOffer/Offer13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordFingerOffer/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordFingerOffer/offer37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/TestArraysCopyOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/TestBuildNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/TestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/CreateTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode1026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode687.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeetCode839.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/PostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Tempalte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/链接" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/题解124" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode1708.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode224.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode542.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SevenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/TelNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/高手题目题解" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Link/Stack/LeetCode42.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode121.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode309.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode714.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode122.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode123.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode188.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Link/Stack/题目集合">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/HSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/Heap/试题集合">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="96" selection-start-column="96" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Array</find>
+      <find>Arrays.asList</find>
+      <find>&quot;</find>
+      <find>[</find>
+      <find>]</find>
+      <find>test1</find>
+      <find>Test2</find>
+      <find>test3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>{</replace>
+      <replace>}</replace>
+      <replace>WaitNotify</replace>
+      <replace>wn</replace>
+      <replace>ReentrantLock</replace>
+      <replace>reentrantLock</replace>
+      <replace>reenTrantLock</replace>
+      <replace>bq</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/real/Baidu1012_02.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Sort/Finder.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LeetCode110.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasic/Test.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LeetCode513.java" />
+        <option value="$PROJECT_DIR$/src/Tree/InOrder.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LeetCode839.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LeetCode1026.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LeetCode687.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/试题集合" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/PriorityQueueE.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/Pai.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/Pair.java" />
+        <option value="$PROJECT_DIR$/src/Test/TestArraysCopyOf.java" />
+        <option value="$PROJECT_DIR$/src/DP/LeetCode91.java" />
+        <option value="$PROJECT_DIR$/src/Link/Stack/Leetcode84.java" />
+        <option value="$PROJECT_DIR$/src/Link/Stack/题目集合" />
+        <option value="$PROJECT_DIR$/src/Link/Stack/LRU.java" />
+        <option value="$PROJECT_DIR$/src/Link/Stack/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/Link/LeetCode876.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/DP/LeetCodeLcp19.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode134.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Sort/LeetCode75.java" />
+        <option value="$PROJECT_DIR$/src/Tree/LeetCode124.java" />
+        <option value="$PROJECT_DIR$/src/Tree/题解124" />
+        <option value="$PROJECT_DIR$/src/Search/BinarySearch/InitialSearch.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode9.java" />
+        <option value="$PROJECT_DIR$/src/SwordFingerOffer/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/SwordFingerOffer/Node.java" />
+        <option value="$PROJECT_DIR$/src/SwordFingerOffer/offer37.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode7.java" />
+        <option value="$PROJECT_DIR$/src/Search/BinarySearch/LeetCode74.java" />
+        <option value="$PROJECT_DIR$/src/Test/TestBuildNums.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode189.java" />
+        <option value="$PROJECT_DIR$/src/Test/TestStack.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/LeetCode347.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Heap/TopK.java" />
+        <option value="$PROJECT_DIR$/src/FrameByHand/BasicDataStructrue/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/Link/Stack/LeetCode456.java" />
+        <option value="$PROJECT_DIR$/src/Search/BinarySearch/Right_Bound.java" />
+        <option value="$PROJECT_DIR$/src/Search/BinarySearch/Left_Bound.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode4.java" />
+        <option value="$PROJECT_DIR$/src/Test/TestSet.java" />
+        <option value="$PROJECT_DIR$/src/Search/BinarySearch/LeetCode33.java" />
+        <option value="$PROJECT_DIR$/src/Link/Stack/LeetCode42.java" />
+        <option value="$PROJECT_DIR$/src/DP/StocksProblems/LeetCode121.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="449" />
+    <option name="y" value="476" />
+    <option name="width" value="1400" />
+    <option name="height" value="1073" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SwordFingerOffer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeFolder\IDEA\LeetCode\src\ByteDance" />
+      <recent name="D:\CodeFolder\IDEA\LeetCode\src\Tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestSet">
+    <configuration name="LeetCode347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.Heap.LeetCode347" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode7" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Left_Bound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.BinarySearch.Left_Bound" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.TestSet" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.Heap.TopK" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSet" />
+        <item itemvalue="Application.Left_Bound" />
+        <item itemvalue="Application.TopK" />
+        <item itemvalue="Application.LeetCode347" />
+        <item itemvalue="Application.LeetCode7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c6f897d-22ca-45ce-b14e-63596758b1c6" name="Default Changelist" comment="" />
+      <created>1596121816159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596121816159</updated>
+      <workItem from="1596121818794" duration="24000" />
+      <workItem from="1596121995849" duration="28000" />
+      <workItem from="1596122069030" duration="20000" />
+      <workItem from="1596122129970" duration="238000" />
+      <workItem from="1596169355001" duration="3083000" />
+      <workItem from="1596211569050" duration="4000" />
+      <workItem from="1596437118078" duration="599000" />
+      <workItem from="1597515764402" duration="903000" />
+      <workItem from="1597567043909" duration="3730000" />
+      <workItem from="1597849200948" duration="7276000" />
+      <workItem from="1597943800249" duration="1148000" />
+      <workItem from="1598018736883" duration="4050000" />
+      <workItem from="1598102963704" duration="3168000" />
+      <workItem from="1598175355181" duration="11108000" />
+      <workItem from="1598256020661" duration="3802000" />
+      <workItem from="1598294586653" duration="1107000" />
+      <workItem from="1598331670743" duration="3798000" />
+      <workItem from="1598381537819" duration="1197000" />
+      <workItem from="1598630856110" duration="5225000" />
+      <workItem from="1598703842053" duration="2008000" />
+      <workItem from="1598783047096" duration="756000" />
+      <workItem from="1598802850813" duration="3143000" />
+      <workItem from="1599034456919" duration="2494000" />
+      <workItem from="1599068974091" duration="551000" />
+      <workItem from="1599125355413" duration="15174000" />
+      <workItem from="1599244954054" duration="5115000" />
+      <workItem from="1599294088151" duration="13778000" />
+      <workItem from="1599392395857" duration="14015000" />
+      <workItem from="1599414889245" duration="677000" />
+      <workItem from="1599479947505" duration="599000" />
+      <workItem from="1599554067637" duration="4071000" />
+      <workItem from="1599639591836" duration="8030000" />
+      <workItem from="1599721236111" duration="76000" />
+      <workItem from="1599723293962" duration="5663000" />
+      <workItem from="1599838486867" duration="2200000" />
+      <workItem from="1600057675315" duration="2115000" />
+      <workItem from="1600600953940" duration="8817000" />
+      <workItem from="1600680754163" duration="6409000" />
+      <workItem from="1600766589893" duration="14538000" />
+      <workItem from="1600852925919" duration="9679000" />
+      <workItem from="1600909653186" duration="4753000" />
+      <workItem from="1601002047945" duration="946000" />
+      <workItem from="1601128037684" duration="4277000" />
+      <workItem from="1601203001728" duration="4325000" />
+      <workItem from="1601221325993" duration="511000" />
+      <workItem from="1601290349477" duration="12374000" />
+      <workItem from="1601339957106" duration="9497000" />
+      <workItem from="1601377890389" duration="1788000" />
+      <workItem from="1601608701269" duration="1326000" />
+      <workItem from="1601742950363" duration="2621000" />
+      <workItem from="1601835678178" duration="7114000" />
+      <workItem from="1602035667493" duration="10019000" />
+      <workItem from="1602071973912" duration="1483000" />
+      <workItem from="1602119652437" duration="5842000" />
+      <workItem from="1602204760043" duration="10729000" />
+      <workItem from="1602289141042" duration="12089000" />
+      <workItem from="1602375762909" duration="12869000" />
+      <workItem from="1602480489456" duration="5345000" />
+      <workItem from="1602556282139" duration="1328000" />
+      <workItem from="1602557654441" duration="3925000" />
+      <workItem from="1602679167925" duration="1521000" />
+      <workItem from="1602767085186" duration="5517000" />
+      <workItem from="1602836192036" duration="6172000" />
+      <workItem from="1603014212262" duration="4651000" />
+      <workItem from="1603080787504" duration="8145000" />
+      <workItem from="1603178876803" duration="1304000" />
+      <workItem from="1603211865351" duration="598000" />
+      <workItem from="1603251808148" duration="5802000" />
+      <workItem from="1603338076264" duration="10544000" />
+      <workItem from="1603373754573" duration="599000" />
+      <workItem from="1603420304301" duration="621000" />
+      <workItem from="1603437749469" duration="2596000" />
+      <workItem from="1603523148412" duration="9293000" />
+      <workItem from="1603553567593" duration="1288000" />
+      <workItem from="1603602104254" duration="7227000" />
+      <workItem from="1603685896827" duration="1973000" />
+      <workItem from="1603697225656" duration="1479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="352907000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="449" y="476" width="1400" height="1073" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1606876" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3043478" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39782608" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32717392" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="14" visible="true" weight="0.32934782" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.11883408" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32977587" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/real/Main.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DP/LeetCodeLcp19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode134.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Sort/LeetCode75.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/LeetCode124.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/题解124">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch/InitialSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/BQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/RTL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/SemaphoreImpliment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiProcess/ProducerAndConsumer/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch/LeetCode74.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode189.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/Offer12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/Offer13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/offer37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordFingerOffer/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/TestArraysCopyOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/TestBuildNums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Link/LeetCode24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Link/Stack/Leetcode84.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrameByHand/BasicDataStructrue/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Heap/LeetCode347.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Link/Stack/LeetCode456.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch/Left_Bound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch/Right_Bound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/real/CheckConclusion.java" />
+    <entry file="file://$PROJECT_DIR$/src/real/findDiffrence.java" />
+    <entry file="file://$PROJECT_DIR$/src/real/FindRepeatNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test/TestSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch/LeetCode33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Heap/TopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="55" column="95" selection-start-line="55" selection-start-column="95" selection-end-line="55" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Heap/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Link/Stack/题目集合">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/HSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Heap/试题集合">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="96" selection-start-column="96" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Link/Stack/LeetCode42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode714.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode122.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/StocksProblems/LeetCode188.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

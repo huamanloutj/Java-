@@ -1,0 +1,26 @@
+public List<Integer> traversal(TreeNode root) {
+    if (root == null) return new ArrayList<Integer>();
+
+    TreeNode node = root;
+    List<Integer> ret = new ArrayList<Integer>();
+
+    Stack<TreeNode> stack = new Stack<TreeNode>();
+    while(node != null || !stack.isEmpty()) {
+        while (node != null) {
+            /*不一定非要出栈的时候访问*/
+            stack.push(node);
+            // 先序遍历
+            node = node.left;
+        }
+        node = stack.pop();
+        // 中序遍历
+        node = node.right;
+        // 后序遍历
+    }
+    return ret;
+}
+
+作者：long_wotu
+链接：https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/bian-li-tong-jie-by-long_wotu/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
